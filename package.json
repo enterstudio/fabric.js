@@ -14,10 +14,10 @@
     "HTML5",
     "object model"
   ],
-  "browser" : {
-    "canvas" : false,
-    "jsdom":   false,
-    "xmldom":  false
+  "browser": {
+    "canvas": false,
+    "jsdom": false,
+    "xmldom": false
   },
   "repository": {
     "type": "git",
@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "canvas": "1.1.x",
-    "jsdom": "0.11.x",
+    "jsdom": "1.0.0",
     "xmldom": "0.1.x"
   },
   "devDependencies": {
