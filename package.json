@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "canvas": "1.1.x",
-    "jsdom": "0.11.x",
+    "jsdom": "16.6.0",
     "xmldom": "0.1.x"
   },
   "devDependencies": {
